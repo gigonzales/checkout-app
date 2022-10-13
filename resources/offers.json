@@ -1,0 +1,14 @@
+[
+    {
+        "condition": 10,
+        "offer": 31,
+        "type": "discount",
+        "sku": "9780201835953"
+    },
+    {
+        "condition": 3,
+        "offer": 1,
+        "type": "bogo",
+        "sku": "9781430219484"
+    }
+]
